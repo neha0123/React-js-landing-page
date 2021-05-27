@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-js-landing-page/static/css/main.ac3c30cb.chunk.css",
+    "main.js": "/React-js-landing-page/static/js/main.0c5962ee.chunk.js",
+    "main.js.map": "/React-js-landing-page/static/js/main.0c5962ee.chunk.js.map",
+    "runtime-main.js": "/React-js-landing-page/static/js/runtime-main.b677ffde.js",
+    "runtime-main.js.map": "/React-js-landing-page/static/js/runtime-main.b677ffde.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-js-landing-page/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4633109c.chunk.js": "/React-js-landing-page/static/js/2.4633109c.chunk.js",
+    "static/js/2.4633109c.chunk.js.map": "/React-js-landing-page/static/js/2.4633109c.chunk.js.map",
+    "index.html": "/React-js-landing-page/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-js-landing-page/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ac3c30cb.chunk.css.map": "/React-js-landing-page/static/css/main.ac3c30cb.chunk.css.map",
+    "static/js/2.4633109c.chunk.js.LICENSE.txt": "/React-js-landing-page/static/js/2.4633109c.chunk.js.LICENSE.txt",
+    "static/media/Highavenue logo.e8c43bfd.png": "/React-js-landing-page/static/media/Highavenue logo.e8c43bfd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b677ffde.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4633109c.chunk.js",
+    "static/css/main.ac3c30cb.chunk.css",
+    "static/js/main.0c5962ee.chunk.js"
+  ]
+}
